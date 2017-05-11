@@ -1,0 +1,46 @@
+Bonjour et bienvenue.
+Je suis IVI et je vais vous expliquer comment bien démarrer avec notre système de gestionnaire de fichier.
+Tout d’abord, veuillez indiquer quelle est votre main principale en fixant votre préférence, s’il vous plaît.
+#5
+Très bien, merci, vous venez d’utiliser notre principal moyen de sélection.
+Voici une étoile.
+C’est un dossier. Vous pouvez le regarder.
+Faites ce geste afin d’y accéder.
+#1
+Bravo, vous avez ouvert un dossier, vous pouvez désormais voir les fichiers et autres dossiers qui sont contenus à l’intérieur.
+Veuillez maintenant regarder ma couleur.
+Je suis jaune.
+Cette couleur signifie que vous êtes en mode gestion c’est à dire qu’il vous est possible de sélectionner, copier et coller des éléments.
+Essayons ensemble de copier un fichier !
+Regardez, vous voyez cette planète “à copier” ?
+Afin de la copier, vous pouvez faire ce geste tout en regardant l'élément.
+#1
+Bravo, vous avez maintenant sélectionné un élément ! Veuillez désormais retourner votre main secondaire, vous y trouverez l’élément que vous venez de sélectionner.
+Nous sommes satisfaits de cette sélection, nous allons aller la copier dans un autre dossier.
+Pour cela, sortons tout d’abord de ce dossier.
+Veuillez regarder dans le vide en faisant ce signe afin de retourner en arrière.
+#4
+Vous commencez à bien comprendre !
+Nous allons maintenant changer d’outils.
+Veuillez faire ce signe avec votre main principale.
+#3
+Vous pouvez constater qu’un menu est apparu autour de votre main.
+Actuellement l’outil que vous pouvez utiliser est celui de la sélection, nous allons en choisir un autre afin de pouvoir copier des éléments.
+Pour cela, veuillez appuyer avec votre doigt sur l’outil souhaité, le copier.
+Très bien, vous pouvez désormais relâcher votre main.
+Maintenant que nous avons l’outil copier en sélection il nous est possible de copier n’importe quel élément à partir du moment où il se trouve dans notre sélection.
+Nous allons donc copier notre sélection dans ce dossier.
+Pour cela, il vous suffit de faire ce geste.
+#1
+Bravo, vous avez copié un élément !
+Afin de couper un élément il vous suffit d’utiliser l’outil couper, la démarche restant la même.
+Nous allons maintenant voir comment supprimer un élément.
+Je vous laisse changer d’outil et prendre celui de sélection.
+#3
+Très bien, maintenant, reprenez l’élément que vous venez de copier.
+Maintenant, il ne vous suffit plus que de faire ce geste.
+#1
+Jetez votre sélection dans l’espace, afin qu’elle se supprime.
+#6
+Très bien, vous connaissez désormais tous les principes de base de notre système.
+Merci à vous d’avoir suivi cette scène tutorielle, nous espérons que vous êtes satisfait.

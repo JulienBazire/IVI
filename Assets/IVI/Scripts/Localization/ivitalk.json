@@ -1,0 +1,26 @@
+﻿[
+	{
+		"info": "IVI welcomes the user.",
+		"key": "IVIWelcomesTheUser",
+		"fr": [ "Salut, moi c'est IVI ! Ca baigne ?", "C'est ta première fois ici, pas vrai ?" ],
+		"en": [ "Hi, I'm IVI! What's up?", "It's your first time here, isn't it?" ]
+	},
+	{
+		"info": "Cut, as in 'Cut and Paste'.",
+		"key": "Cut",
+		"en": "Cut",
+		"fr": "Couper"
+	},
+	{
+		"info": "Copy, as in 'Copy and Paste'.",
+		"key": "Copy",
+		"en": "Copy",
+		"fr": "Copier"
+	},
+	{
+		"info": "Paste, as in 'Copy and Paste'.",
+		"key": "Paste",
+		"en": "Paste",
+		"fr": "Coller"
+	}
+]
